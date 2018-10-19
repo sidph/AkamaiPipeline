@@ -9,6 +9,7 @@
 			"#include:Banking.json",
 			"#include:Mortgages.json",
 			"#include:Shoes.json",
+			"#include:Banking123.json",
 			"#include:PersonalLoans.json"
         ],
         "behaviors": [

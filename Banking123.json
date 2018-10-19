@@ -1,5 +1,5 @@
 {
-    "name": "PersonalLoans",
+    "name": "Banking",
     "children": [],
     "behaviors": [
         {
@@ -7,7 +7,7 @@
             "options": {
                 "behavior": "MAX_AGE",
                 "mustRevalidate": false,
-                "ttl": "20d"
+                "ttl": "2m"
             }
         }
     ],
@@ -17,7 +17,7 @@
             "options": {
                 "matchOperator": "MATCHES_ONE_OF",
                 "values": [
-                    "/personalloans/*"
+                    "/banking123/*"
                 ],
                 "matchCaseSensitive": false
             }
