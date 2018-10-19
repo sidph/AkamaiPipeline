@@ -8,6 +8,7 @@
             "#include:New_Rule.json",
 			"#include:Banking.json",
 			"#include:Mortgages.json",
+			"#include:Shoes.json",
 			"#include:PersonalLoans.json"
         ],
         "behaviors": [
