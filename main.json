@@ -5,11 +5,11 @@
             "#include:Enable_HTTP2.json",
             "#include:Compressible_Objects.json",
             "#include:Cache_extensions.json",
-            "#include:New_Rule.json",
-			"#include:Banking.json",
-			"#include:Mortgages.json",
+            "#include:Images.json",
+			"#include:API.json",
+			"#include:Accessories.json",
 			"#include:Shoes.json",
-			"#include:PersonalLoans.json"
+			"#include:Furniture.json"
         ],
         "behaviors": [
             {
