@@ -10,6 +10,7 @@
 			"#include:Accessories.json",
 			"#include:Shoes.json",
 			"#include:Apparel.json",
+			"#include:Sports.json",
 			"#include:Furniture.json"
         ],
         "behaviors": [

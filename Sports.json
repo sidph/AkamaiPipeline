@@ -7,7 +7,7 @@
             "options": {
                 "behavior": "MAX_AGE",
                 "mustRevalidate": false,
-                "ttl": "20d"
+                "ttl": "1m"
             }
         }
     ],
@@ -17,7 +17,7 @@
             "options": {
                 "matchOperator": "MATCHES_ONE_OF",
                 "values": [
-                    "/shoes/*"
+                    "/sports/*"
                 ],
                 "matchCaseSensitive": false
             }
