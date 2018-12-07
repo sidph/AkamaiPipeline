@@ -11,6 +11,7 @@
 			"#include:Shoes.json",
 			"#include:Apparel.json",
 			"#include:Sports.json",
+			"#include:Socks.json",
 			"#include:Furniture.json"
         ],
         "behaviors": [
