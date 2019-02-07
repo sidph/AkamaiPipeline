@@ -7,7 +7,7 @@
             "options": {
                 "behavior": "MAX_AGE",
                 "mustRevalidate": false,
-                "ttl": "40m"
+                "ttl": "43m"
             }
         }
     ],
